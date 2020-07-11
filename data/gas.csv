@@ -1,9 +1,4 @@
-﻿Name,RENE RODRIGUEZ
-Address,"603 SADDLE CT, MERCED CA 95341-5400"
-Account Number,4650868754
-Service,4650868986
-
-TYPE,DATE,USAGE,UNITS,COST,NOTES
+﻿TYPE,DATE,USAGE,UNITS,COST,NOTES
 Natural gas usage,2014-07-18,0.00,therms,$0.00,
 Natural gas usage,2014-07-19,0.00,therms,$0.00,
 Natural gas usage,2014-07-20,0.00,therms,$0.00,
